@@ -1,17 +1,22 @@
 /* Nuevo css para StructurePages */
 
 a {text-decoration: none;}
-.blue{background-color: #3595BF;}
-.bluelight{background-color: #CCCCEF;}
-.pink{background-color: #BF359D;}
-.yellow{background-color: #E4E810;}
-.green{background-color: #07B321;}
-.greenlight{background-color: #C1ECC8;}
-.black{background-color: #212529;}
-.orange{background-color: #FD7E14;}
-.graylight{background-color: #CFCECD;}
-.graydark{background-color: #707070;}
-.white{background-color: #FFFFFF;}
-.purple{background-color: #BF359D}
-.purplelight{background-color: #E08FCC}
+// background-color
+.bg-blue{background-color: #3595BF;}
+.bg-bluelight{background-color: #CCCCEF;}
+.bg-pink{background-color: #BF359D;}
+.bg-yellow{background-color: #E4E810;}
+.bg-green{background-color: #07B321;}
+.bg-greenlight{background-color: #C1ECC8;}
+.bg-black{background-color: #212529;}
+.bg-orange{background-color: #FD7E14;}
+.bg-graylight{background-color: #CFCECD;}
+.bg-graydark{background-color: #707070;}
+.bg-white{background-color: #FFFFFF;}
+.bg-purple{background-color: #BF359D}
+.bg-purplelight{background-color: #E08FCC}
+// color font
 .letter-white{color: #FFFFFF;padding-top: 1rem;}
+
+.centerlogo{display: block; margin: auto;}
+.tenology{background-color: #BF359D; p {text-align: center}}

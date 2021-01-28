@@ -2,47 +2,56 @@
 a {
   text-decoration: none; }
 
-.blue {
+.bg-blue {
   background-color: #3595BF; }
 
-.bluelight {
+.bg-bluelight {
   background-color: #CCCCEF; }
 
-.pink {
+.bg-pink {
   background-color: #BF359D; }
 
-.yellow {
+.bg-yellow {
   background-color: #E4E810; }
 
-.green {
+.bg-green {
   background-color: #07B321; }
 
-.greenlight {
+.bg-greenlight {
   background-color: #C1ECC8; }
 
-.black {
+.bg-black {
   background-color: #212529; }
 
-.orange {
+.bg-orange {
   background-color: #FD7E14; }
 
-.graylight {
+.bg-graylight {
   background-color: #CFCECD; }
 
-.graydark {
+.bg-graydark {
   background-color: #707070; }
 
-.white {
+.bg-white {
   background-color: #FFFFFF; }
 
-.purple {
+.bg-purple {
   background-color: #BF359D; }
 
-.purplelight {
+.bg-purplelight {
   background-color: #E08FCC; }
 
 .letter-white {
   color: #FFFFFF;
   padding-top: 1rem; }
+
+.centerlogo {
+  display: block;
+  margin: auto; }
+
+.tenology {
+  background-color: #BF359D; }
+  .tenology p {
+    text-align: center; }
 
 /*# sourceMappingURL=stylesheet.css.map */
